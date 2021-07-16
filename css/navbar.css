@@ -1,0 +1,16 @@
+.banklogo{
+    height:100px;
+    width:200px;
+  }
+  #navmenu{
+    padding:40px;
+  }
+  .button{
+    border-radius: 20px;
+    transition: 1.5s;
+  
+  }
+  .button:hover{
+    background-color: #616C6F;
+    color: white;
+  }
